@@ -20,7 +20,7 @@
         android:id="@+id/button"
         android:layout_width="126dp"
         android:layout_height="81dp"
-        android:text="Start Scan Now"
+        android:text="Initialize Scan"
         tools:layout_editor_absoluteX="141dp"
         tools:layout_editor_absoluteY="346dp" />
 
