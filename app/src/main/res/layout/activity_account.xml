@@ -6,4 +6,33 @@
     android:layout_height="match_parent"
     tools:context=".account">
 
+    <ImageView
+        android:id="@+id/imageView2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="12dp"
+        android:layout_marginTop="32dp"
+        android:layout_marginEnd="271dp"
+        android:layout_marginBottom="571dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        tools:srcCompat="@tools:sample/avatars" />
+
+    <TextView
+        android:id="@+id/textView3"
+        android:layout_width="323dp"
+        android:layout_height="64dp"
+        android:layout_marginStart="47dp"
+        android:layout_marginTop="188dp"
+        android:layout_marginEnd="41dp"
+        android:layout_marginBottom="318dp"
+        android:text="Statistics"
+        android:textAlignment="center"
+        android:textSize="36sp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/imageView2" />
 </androidx.constraintlayout.widget.ConstraintLayout>
