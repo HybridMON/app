@@ -58,7 +58,7 @@
         android:layout_marginTop="181dp"
         android:layout_marginEnd="25dp"
         android:layout_marginBottom="81dp"
-        android:text="emailid:"
+        android:text="email id:"
         android:textAlignment="center"
         android:textColor="#FC0000 "
         app:layout_constraintBottom_toTopOf="@+id/textView5"
