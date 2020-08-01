@@ -1,8 +1,3 @@
 <resources>
     <string name="app_name">hybridmon</string>
-    <string name="startscannow">StartScanNow</string>
-    <string name="initializescan">initializescan</string>
-    <string name="appwidget_text">EXAMPLE</string>
-    <string name="add_widget">Add widget</string>
-    <string name="hello_world">Hello World</string>
 </resources>
