@@ -5,4 +5,5 @@
     <string name="appwidget_text">EXAMPLE</string>
     <string name="add_widget">Add widget</string>
     <string name="hello_world">Hello World</string>
+    <string name="select_app_s_for_custom_scan">Select App(s) For Custom Scan</string>
 </resources>
