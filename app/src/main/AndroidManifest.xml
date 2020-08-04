@@ -21,6 +21,7 @@
         </activity>
         <activity android:name=".account" />
         <activity android:name=".Activity2" />
+        <activity android:name=".customscan" />
         <activity android:name=".MainActivity"></activity>
     </application>
 
