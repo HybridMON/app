@@ -44,7 +44,7 @@
         android:layout_height="46dp"
         android:layout_marginStart="57dp"
         android:layout_marginTop="249dp"
-        android:layout_marginEnd="242dp"
+        android:layout_marginEnd="245dp"
         android:layout_marginBottom="436dp"
         android:text="Java"
         android:textSize="20sp"
@@ -74,10 +74,12 @@
         android:layout_height="43dp"
         android:layout_marginStart="57dp"
         android:layout_marginTop="391dp"
+        android:layout_marginEnd="245dp"
         android:layout_marginBottom="297dp"
         android:text="Kotlin"
         android:textSize="20sp"
         app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
 
