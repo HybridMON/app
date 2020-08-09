@@ -19,10 +19,14 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        <activity android:name=".logout"/>
+        <activity android:name=".customscan"/>
         <activity android:name=".account" />
         <activity android:name=".Activity2" />
         <activity android:name=".customscan" />
         <activity android:name=".MainActivity"></activity>
+
+
     </application>
 
 </manifest>
