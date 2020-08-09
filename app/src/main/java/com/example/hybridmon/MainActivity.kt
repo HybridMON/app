@@ -22,17 +22,13 @@ class MainActivity : AppCompatActivity() {
             val intent = Intent(this, account::class.java)
             startActivity(intent)
         }
-        val button3 =
-
-            findViewById<Button>(R.id.button3)
+        val button3 = findViewById<Button>(R.id.button3)
         button3.setOnClickListener {
             val intent = Intent(this, logout::class.java)
             startActivity(intent)
         }
 
-        val button4 =
-
-            findViewById<Button>(R.id.button4)
+        val button4 = findViewById<Button>(R.id.button4)
         button4.setOnClickListener {
             val intent = Intent(this, customscan::class.java)
             startActivity(intent)
